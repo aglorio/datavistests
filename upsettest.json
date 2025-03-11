@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/aglorio/datavistests/refs/heads/main/upset-cyr.csv",
 	"name": "Cyrillic characters in Eastern European languages",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "country" }
