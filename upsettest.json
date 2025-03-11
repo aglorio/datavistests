@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/aglorio/datavistests/refs/heads/main/upset-cyr.csv",
+	"file": "https://raw.githubusercontent.com/aglorio/datavistests/refs/heads/main/upset-cyr-inverted.csv",
 	"name": "Cyrillic characters in Eastern European languages",
 	"header": 0,
 	"separator": ",",
